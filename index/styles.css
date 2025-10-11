@@ -1,0 +1,33 @@
+body{
+  font-family: sans-serif;
+  background-color: #4284A8;
+  color: #36586E;
+  font-size: 20px;
+  margin: 0px;
+}
+
+a{
+    color: #1ECBD9;
+}
+h1{
+  text-align: center;  
+}
+h2{
+  text-align: center;  
+}
+
+P{
+    background-color: #3EA7B0;
+    padding: 15PX;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+nay{
+    text-align: center;
+}
+footer{
+    background-color: #3EA7B0;
+    padding: 5px;
+    text-align: center;
+}
